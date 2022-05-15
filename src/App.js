@@ -44,7 +44,7 @@ function App() {
  },
  bannerImage:{
    height:Dimensions.get('window').height/4,
-   width:Dimensions.get('window').width/2
+   width:Dimensions.get('window').width
  },
  headerText:{
    fontSize:50,
